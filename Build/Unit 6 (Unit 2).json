@@ -1,0 +1,16 @@
+{
+"companyName": "Emma Wantz",
+"productName": "Unit 6 (Unit 2)",
+"productVersion": "0",
+"dataUrl": "Unit 6 (Unit 2).data.unityweb",
+"wasmCodeUrl": "Unit 6 (Unit 2).wasm.code.unityweb",
+"wasmFrameworkUrl": "Unit 6 (Unit 2).wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.29f1"
+}
